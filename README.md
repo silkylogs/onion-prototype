@@ -11,6 +11,6 @@ The prototype is currently in very early stages of development and is subject to
 | `esc` | pause menu |
 
 # Installation instructions
-1. Download the release
+1. Download the [release](https://github.com/silkylogs/onion-prototype/releases/download/v0.1/v0.1.rar)
 2. Unzip the zip file
 3. Run `onion-prototype.exe`
